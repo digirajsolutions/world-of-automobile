@@ -3,3 +3,6 @@ Hyundai Verna
 Maruti Suzuki Ciaz
 Mercedes Benz CLA200
 BMW 340i
+Volkswagen Virtus
+Volvo S90
+Mercedes Benz A-class Limousine
